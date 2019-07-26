@@ -1,7 +1,7 @@
 .DEFAULT_GOAL := build
 
 # TODO: Change project name
-DOCKER_IMAGE_BASE_NAME:=tobias/default
+DOCKER_IMAGE_BASE_NAME:=tobias/srnm
 DATA_DIR:=$(CURDIR)/data
 
 GPU_TAG := 2.0.0b0-gpu-py3

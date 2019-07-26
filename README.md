@@ -1,8 +1,9 @@
-# Tensorflow enabled DS project template
+# SRNM: Sparse Recurrent Neural Model
 
-This repo constitutes a skeleton for a typical ML/DS project with out-of-the-box support for
- - Tensorflow 2.0 (CPU+GPU)
- - Jupyter notebooks
- - Common scientific libraries such as numpy, scipy and matplotlib
- 
+This is an attempt to capture some aspects of the human brain in a general neural model. The hope is that this model
+is
+ - capable of scaling to a large number of simultaneous tasks, while limiting effects from Catastrophic Forgetting
+ - dynamic or self-adaptive, similar to how brain neurons are continuously re-wired based on experience
+
+TODO: Fill out more info
 
