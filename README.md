@@ -5,5 +5,6 @@ is
  - capable of scaling to a large number of simultaneous tasks, while limiting effects from Catastrophic Forgetting
  - dynamic or self-adaptive, similar to how brain neurons are continuously re-wired based on experience
 
-TODO: Fill out more info
+## Working process
 
+ - [ ] Implement simple XOR problem
